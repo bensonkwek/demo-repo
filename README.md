@@ -9,11 +9,4 @@ I am in the United States.
 My name is Kwek Xiang You
 This is Chinese name.
 
-# I am a boy
-
-# I am not a girl
-
-# But i Could be a girl?
-
-Hello!
 
