@@ -16,3 +16,5 @@ This is Chinese name.
 # But i Could be a girl?
 
 Hello!
+
+I am in Accra today 7/1
