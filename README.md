@@ -14,3 +14,9 @@ This is Chinese name.
 # I am not a girl
 
 # But i Could be a girl?
+
+Hello!
+
+I am in Accra today 7/1
+
+I am leaving for the US and reaching on 7/2
