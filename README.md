@@ -18,3 +18,5 @@ This is Chinese name.
 Hello!
 
 I am in Accra today 7/1
+
+I am leaving for the US and reaching on 7/2
